@@ -20,17 +20,19 @@
 
 <table>
   <tr>
-    <td>
+    <td width="60%">
+      <h3>Hi there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"/></h3>
+      <p>I'm <strong>Darshit Sapariya</strong>, a passionate <strong>Python Django Developer</strong> from India who loves turning complex problems into simple, beautiful, and intuitive solutions.</p>
       <ul>
-        <li>💙 Passionate <strong>Python Django Developer</strong> from India</li>
-        <li>🚀 Building scalable backend applications & clean user experiences</li>
-        <li>🌱 Currently mastering <strong>Django REST Framework (DRF)</strong></li>
-        <li>🎯 Goal: Become an Expert Backend Engineer</li>
-        <li>⚡ I believe in clean, maintainable, and efficient code</li>
+        <li>🔭 Currently working on <strong>backend development & REST APIs</strong></li>
+        <li>🌱 Expanding my expertise in <strong>Django REST Framework (DRF)</strong></li>
+        <li>💡 Passionate about <strong>clean architecture & scalable systems</strong></li>
+        <li>🎯 Aiming to become an <strong>Expert Backend Engineer</strong></li>
+        <li>⚡ Fun fact: I believe <strong>great code is poetry in motion</strong></li>
       </ul>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshit-Sapariya&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF" width="300"/>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshit-Sapariya&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF" width="280"/>
     </td>
   </tr>
 </table>
@@ -63,30 +65,7 @@
 
 ---
 
-## 📂 Projects
 
-<p align="center">
-  <a href="https://github.com/Darshit-Sapariya?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Darshit-Sapariya&repo=Darshit-Sapariya&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5"/>
-  </a>
-</p>
-
-> ⏳ *More projects coming soon...*
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darshit-Sapariya&show_icons=true&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Darshit-Sapariya&theme=nightowl&hide_border=true&background=0D1117&ring=4F46E5&fire=4F46E5&currStreakLabel=4F46E5" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darshit-Sapariya&theme=react-dark&bg_color=0D1117&hide_border=true&color=4F46E5&line=4F46E5&point=FFFFFF"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -104,16 +83,6 @@
 
 ---
 
-## 🏆 GitHub Badges
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Darshit-Sapariya?style=for-the-badge&logo=github&color=4F46E5"/>
-  <img src="https://img.shields.io/github/stars/Darshit-Sapariya?style=for-the-badge&logo=github&color=4F46E5"/>
-  <img src="https://komarev.com/ghpvc/?username=Darshit-Sapariya&style=for-the-badge&color=4F46E5&label=Profile+Views"/>
-  <img src="https://img.shields.io/github/last-commit/Darshit-Sapariya/Darshit-Sapariya?style=for-the-badge&logo=github&color=4F46E5"/>
-</p>
-
----
 
 ## 💡 Developer Mindset
 
@@ -141,11 +110,6 @@
 
 ---
 
-## 💬 Favorite Quote
-
-> *"First, solve the problem. Then, write the code."* — **John Johnson**
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling"/>
