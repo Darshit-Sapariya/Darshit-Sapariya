@@ -20,7 +20,7 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td>
       <h3>Hi there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px"/></h3>
       <p>I'm <strong>Darshit Sapariya</strong>, a passionate <strong>Python Django Developer</strong> from India who loves turning complex problems into simple, beautiful, and intuitive solutions.</p>
       <ul>
@@ -30,9 +30,6 @@
         <li>🎯 Aiming to become an <strong>Expert Backend Engineer</strong></li>
         <li>⚡ Fun fact: I believe <strong>great code is poetry in motion</strong></li>
       </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darshit-Sapariya&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF" width="280"/>
     </td>
   </tr>
 </table>
@@ -71,13 +68,27 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sapariya-darshit-47b7b1287/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
   <a href="https://instagram.com/@darshit_patel__23">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=DD2A7B"/>
   </a>
   <a href="mailto:sapariyadarshit3596@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BB001B"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sapariya-darshit-47b7b1287/">
+    <img src="https://img.shields.io/badge/-Let's%20Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://instagram.com/@darshit_patel__23">
+    <img src="https://img.shields.io/badge/-Follow%20Me-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;</span>
+  <a href="mailto:sapariyadarshit3596@gmail.com">
+    <img src="https://img.shields.io/badge/-Send%20Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
