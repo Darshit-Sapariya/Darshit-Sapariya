@@ -66,8 +66,10 @@
 
 ## 🌐 Connect With Me
 
-<p align="center" style="color: #9CA3AF; font-size: 16px; font-weight: 400; margin-top: 4px; margin-bottom: 28px;">
-  Let's connect and build something amazing together.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1500&color=4F46E5&center=true&vCenter=true&width=500&lines=Let's+connect+and+build+something+amazing+together." alt="Typing SVG"/>
+  </a>
 </p>
 
 <div align="center">
