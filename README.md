@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/sapariya-darshit-47b7b1287/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
-  <a href="https://instagram.com/@darshit_patel__23">
+  <a href="https://instagram.com/darshit_patel__23">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=DD2A7B"/>
   </a>
   <a href="mailto:sapariyadarshit3596@gmail.com">
@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/-Let's%20Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://instagram.com/@darshit_patel__23">
+  <a href="https://instagram.com/darshit_patel__23">
     <img src="https://img.shields.io/badge/-Follow%20Me-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   <span>&nbsp;&nbsp;&nbsp;</span>
