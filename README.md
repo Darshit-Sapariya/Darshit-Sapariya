@@ -67,6 +67,9 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://iamdarshitsapariya.site">
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=3730A3"/>
+  </a>
   <a href="https://www.linkedin.com/in/sapariya-darshit-47b7b1287/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
@@ -79,16 +82,17 @@
 </p>
 
 <p align="center">
+  <a href="https://iamdarshitsapariya.site">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-4F46E5?style=flat-square&logo=google-chrome&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/sapariya-darshit-47b7b1287/">
-    <img src="https://img.shields.io/badge/-Let's%20Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🤝%20Let's%20Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <span>&nbsp;&nbsp;&nbsp;</span>
   <a href="https://instagram.com/darshit_patel__23">
-    <img src="https://img.shields.io/badge/-Follow%20Me-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📸%20Follow%20Me-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <span>&nbsp;&nbsp;&nbsp;</span>
   <a href="mailto:sapariyadarshit3596@gmail.com">
-    <img src="https://img.shields.io/badge/-Send%20Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/📧%20Send%20Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
