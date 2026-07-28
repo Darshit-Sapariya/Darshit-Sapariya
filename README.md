@@ -71,10 +71,10 @@
 </p>
 
 <div align="center">
-  <table style="background: linear-gradient(145deg, #0D1117, #161B22); border-radius: 20px; border: 1px solid rgba(255,255,255,0.06); padding: 0; box-shadow: 0 0 60px rgba(168,85,247,0.06), 0 0 30px rgba(59,130,246,0.04);">
+  <table style="background: linear-gradient(145deg, #0D1117, #161B22); border-radius: 20px; border: 1px solid rgba(255,255,255,0.08); padding: 0; box-shadow: 0 0 80px rgba(168,85,247,0.08), 0 0 40px rgba(59,130,246,0.05);">
     <tr>
-      <td style="padding: 16px 20px;">
-        <table style="border-spacing: 10px; border-collapse: separate;">
+      <td style="padding: 18px 24px;">
+        <table style="border-spacing: 12px; border-collapse: separate;">
           <tr>
             <td>
               <a href="https://github.com/Darshit-Sapariya">
@@ -91,8 +91,6 @@
                 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"/>
               </a>
             </td>
-          </tr>
-          <tr>
             <td>
               <a href="https://instagram.com/darshit_patel__23">
                 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4"/>
@@ -101,11 +99,6 @@
             <td>
               <a href="mailto:sapariyadarshit3596@gmail.com">
                 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=BB001B"/>
-              </a>
-            </td>
-            <td>
-              <a href="https://iamdarshitsapariya.site">
-                <img src="https://img.shields.io/badge/Resume-F59E0B?style=for-the-badge&logo=read-dot-cv&logoColor=white&labelColor=D97706"/>
               </a>
             </td>
           </tr>
