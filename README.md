@@ -66,79 +66,76 @@
 
 ## 🌐 Connect With Me
 
-<style>
-  .connect-wrap { display: flex; align-items: center; justify-content: space-between; background: #0D1117; padding: 40px 50px; border-radius: 24px; border: 1px solid rgba(255,255,255,0.06); flex-wrap: wrap; gap: 40px; }
-  .connect-left { flex: 1; min-width: 240px; text-align: left; }
-  .connect-left .label { color: #10B981; font-size: 13px; font-weight: 600; letter-spacing: 3px; margin-bottom: 10px; text-transform: uppercase; }
-  .connect-left .title { color: #FFFFFF; font-size: 34px; font-weight: 800; line-height: 1.15; margin-bottom: 14px; letter-spacing: -0.5px; }
-  .connect-left .desc { color: #9CA3AF; font-size: 15px; line-height: 1.7; max-width: 280px; }
-  .connect-cards { display: flex; gap: 16px; flex-wrap: wrap; justify-content: center; }
-  .connect-card { display: flex; flex-direction: column; align-items: center; justify-content: center; width: 96px; height: 120px; border-radius: 18px; text-decoration: none; transition: all 0.3s ease; cursor: pointer; position: relative; }
-  .connect-card span { color: #FFFFFF; font-size: 12px; font-weight: 500; margin-top: 10px; }
-  .card-portfolio { background: linear-gradient(135deg, #7C3AED, #4F46E5); border: 1px solid rgba(124,58,237,0.3); box-shadow: 0 8px 32px rgba(124,58,237,0.25), inset 0 1px 0 rgba(255,255,255,0.15); transform: perspective(800px) rotateY(-4deg); }
-  .card-portfolio:hover { transform: perspective(800px) rotateY(-4deg) translateY(-6px) scale(1.05); box-shadow: 0 12px 48px rgba(124,58,237,0.45), inset 0 1px 0 rgba(255,255,255,0.2); }
-  .card-linkedin { background: linear-gradient(135deg, #0A66C2, #004182); border: 1px solid rgba(10,102,194,0.3); box-shadow: 0 8px 32px rgba(10,102,194,0.25), inset 0 1px 0 rgba(255,255,255,0.15); transform: perspective(800px) rotateY(-2deg); }
-  .card-linkedin:hover { transform: perspective(800px) rotateY(-2deg) translateY(-6px) scale(1.05); box-shadow: 0 12px 48px rgba(10,102,194,0.45), inset 0 1px 0 rgba(255,255,255,0.2); }
-  .card-instagram { background: linear-gradient(135deg, #F58529, #DD2A7B, #8134AF); border: 1px solid rgba(221,42,123,0.3); box-shadow: 0 8px 32px rgba(221,42,123,0.25), inset 0 1px 0 rgba(255,255,255,0.15); transform: perspective(800px) rotateY(0deg); }
-  .card-instagram:hover { transform: perspective(800px) rotateY(0deg) translateY(-6px) scale(1.05); box-shadow: 0 12px 48px rgba(221,42,123,0.45), inset 0 1px 0 rgba(255,255,255,0.2); }
-  .card-gmail { background: linear-gradient(135deg, #D14836, #A5221A); border: 1px solid rgba(209,72,54,0.3); box-shadow: 0 8px 32px rgba(209,72,54,0.25), inset 0 1px 0 rgba(255,255,255,0.15); transform: perspective(800px) rotateY(2deg); }
-  .card-gmail:hover { transform: perspective(800px) rotateY(2deg) translateY(-6px) scale(1.05); box-shadow: 0 12px 48px rgba(209,72,54,0.45), inset 0 1px 0 rgba(255,255,255,0.2); }
-  .card-github { background: linear-gradient(135deg, #333333, #0D0D0D); border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.4), inset 0 1px 0 rgba(255,255,255,0.1); transform: perspective(800px) rotateY(4deg); }
-  .card-github:hover { transform: perspective(800px) rotateY(4deg) translateY(-6px) scale(1.05); box-shadow: 0 12px 48px rgba(255,255,255,0.1), inset 0 1px 0 rgba(255,255,255,0.15); }
-</style>
-
-<div class="connect-wrap">
-
-  <div class="connect-left">
-    <div class="label">Get In Touch</div>
-    <div class="title">Contact With Me</div>
-    <div class="desc">Let's connect and build something amazing together.</div>
-  </div>
-
-  <div class="connect-cards">
-
-    <a href="https://iamdarshitsapariya.site" class="connect-card card-portfolio">
-      <svg viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-        <circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/>
-        <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
-      </svg>
-      <span>Portfolio</span>
-    </a>
-
-    <a href="https://www.linkedin.com/in/sapariya-darshit-47b7b1287/" class="connect-card card-linkedin">
-      <svg viewBox="0 0 24 24" width="32" height="32" fill="#FFFFFF">
-        <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
-        <rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/>
-      </svg>
-      <span>LinkedIn</span>
-    </a>
-
-    <a href="https://instagram.com/darshit_patel__23" class="connect-card card-instagram">
-      <svg viewBox="0 0 24 24" width="32" height="32" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-        <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
-        <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/>
-        <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/>
-      </svg>
-      <span>Instagram</span>
-    </a>
-
-    <a href="mailto:sapariyadarshit3596@gmail.com" class="connect-card card-gmail">
-      <svg viewBox="0 0 24 24" width="32" height="32" fill="#FFFFFF">
-        <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
-        <polyline points="22,6 12,13 2,6"/>
-      </svg>
-      <span>Gmail</span>
-    </a>
-
-    <a href="https://github.com/Darshit-Sapariya" class="connect-card card-github">
-      <svg viewBox="0 0 24 24" width="32" height="32" fill="#FFFFFF">
-        <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
-      </svg>
-      <span>GitHub</span>
-    </a>
-
-  </div>
-</div>
+<table>
+  <tr>
+    <td style="padding: 10px 30px 10px 0; vertical-align: middle; width: 35%;">
+      <div style="color: #10B981; font-size: 13px; font-weight: 600; letter-spacing: 3px; text-transform: uppercase;">Get In Touch</div>
+      <div style="color: #FFFFFF; font-size: 32px; font-weight: 800; line-height: 1.15; margin: 10px 0;">Contact With Me</div>
+      <div style="color: #9CA3AF; font-size: 15px; line-height: 1.6;">Let's connect and build something amazing together.</div>
+    </td>
+    <td style="padding: 10px 0; vertical-align: middle;">
+      <table>
+        <tr>
+          <td style="padding: 6px;">
+            <a href="https://iamdarshitsapariya.site">
+              <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 110px; background: linear-gradient(135deg, #7C3AED, #4F46E5); border-radius: 16px; border: 1px solid rgba(124,58,237,0.3); box-shadow: 0 6px 24px rgba(124,58,237,0.25);">
+                <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                  <circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/>
+                  <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+                </svg>
+                <span style="color: #FFFFFF; font-size: 11px; font-weight: 500; margin-top: 8px;">Portfolio</span>
+              </div>
+            </a>
+          </td>
+          <td style="padding: 6px;">
+            <a href="https://www.linkedin.com/in/sapariya-darshit-47b7b1287/">
+              <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 110px; background: linear-gradient(135deg, #0A66C2, #004182); border-radius: 16px; border: 1px solid rgba(10,102,194,0.3); box-shadow: 0 6px 24px rgba(10,102,194,0.25);">
+                <svg viewBox="0 0 24 24" width="28" height="28" fill="#FFFFFF">
+                  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
+                  <rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/>
+                </svg>
+                <span style="color: #FFFFFF; font-size: 11px; font-weight: 500; margin-top: 8px;">LinkedIn</span>
+              </div>
+            </a>
+          </td>
+          <td style="padding: 6px;">
+            <a href="https://instagram.com/darshit_patel__23">
+              <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 110px; background: linear-gradient(135deg, #F58529, #DD2A7B, #8134AF); border-radius: 16px; border: 1px solid rgba(221,42,123,0.3); box-shadow: 0 6px 24px rgba(221,42,123,0.25);">
+                <svg viewBox="0 0 24 24" width="28" height="28" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                  <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
+                  <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/>
+                  <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/>
+                </svg>
+                <span style="color: #FFFFFF; font-size: 11px; font-weight: 500; margin-top: 8px;">Instagram</span>
+              </div>
+            </a>
+          </td>
+          <td style="padding: 6px;">
+            <a href="mailto:sapariyadarshit3596@gmail.com">
+              <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 110px; background: linear-gradient(135deg, #D14836, #A5221A); border-radius: 16px; border: 1px solid rgba(209,72,54,0.3); box-shadow: 0 6px 24px rgba(209,72,54,0.25);">
+                <svg viewBox="0 0 24 24" width="28" height="28" fill="#FFFFFF">
+                  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+                  <polyline points="22,6 12,13 2,6"/>
+                </svg>
+                <span style="color: #FFFFFF; font-size: 11px; font-weight: 500; margin-top: 8px;">Gmail</span>
+              </div>
+            </a>
+          </td>
+          <td style="padding: 6px;">
+            <a href="https://github.com/Darshit-Sapariya">
+              <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 110px; background: linear-gradient(135deg, #333333, #0D0D0D); border-radius: 16px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 6px 24px rgba(0,0,0,0.4);">
+                <svg viewBox="0 0 24 24" width="28" height="28" fill="#FFFFFF">
+                  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+                </svg>
+                <span style="color: #FFFFFF; font-size: 11px; font-weight: 500; margin-top: 8px;">GitHub</span>
+              </div>
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
