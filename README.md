@@ -66,84 +66,86 @@
 
 ## 🌐 Connect With Me
 
-<table style="background: linear-gradient(145deg, #0D1117, #161B22); border-radius: 24px; border: 1px solid rgba(255,255,255,0.08); padding: 0; width: 100%; box-shadow: 0 0 80px rgba(168,85,247,0.08), 0 0 40px rgba(59,130,246,0.05);">
-  <tr>
-    <td style="padding: 30px 20px 30px 35px; vertical-align: middle; width: 28%;">
-      <table style="width: 100%;">
-        <tr>
-          <td style="width: 5px; height: 50px; background: linear-gradient(180deg, #a855f7, #ec4899, #f59e0b); border-radius: 6px;"></td>
-          <td style="padding-left: 16px;">
-            <div style="background: linear-gradient(90deg, #34d399, #10b981); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 12px; font-weight: 700; letter-spacing: 2.5px; text-transform: uppercase;">Get In Touch</div>
-            <div style="background: linear-gradient(90deg, #FFFFFF, #c084fc, #60a5fa); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 26px; font-weight: 800; line-height: 1.2; margin-top: 4px;">Contact With Me</div>
-          </td>
-        </tr>
-      </table>
-      <div style="height: 2px; background: linear-gradient(90deg, rgba(168,85,247,0.5), rgba(236,72,153,0.3), transparent); margin: 14px 0; border-radius: 2px;"></div>
-      <div style="background: linear-gradient(90deg, #d1d5db, #9ca3af); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 14px; line-height: 1.6;">Let's connect and build something amazing together.</div>
-    </td>
-    <td style="padding: 20px 15px 20px 5px; vertical-align: middle;">
-      <table>
-        <tr>
-          <td style="padding: 7px;">
-            <a href="https://iamdarshitsapariya.site" style="text-decoration: none;">
-              <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 112px; background: linear-gradient(145deg, #a855f7, #7c3aed, #6d28d9); border-radius: 18px; border: 1px solid rgba(168,85,247,0.4); box-shadow: 0 8px 30px rgba(168,85,247,0.35), inset 0 1px 0 rgba(255,255,255,0.25);">
-                <svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-                  <circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/>
-                  <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
-                </svg>
-                <span style="color: #FFFFFF; font-size: 12px; font-weight: 700; margin-top: 10px; letter-spacing: 0.5px;">Portfolio</span>
-              </div>
-            </a>
-          </td>
-          <td style="padding: 7px;">
-            <a href="https://www.linkedin.com/in/sapariya-darshit-47b7b1287/" style="text-decoration: none;">
-              <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 112px; background: linear-gradient(145deg, #60a5fa, #2563eb, #1d4ed8); border-radius: 18px; border: 1px solid rgba(96,165,250,0.4); box-shadow: 0 8px 30px rgba(37,99,235,0.35), inset 0 1px 0 rgba(255,255,255,0.25);">
-                <svg viewBox="0 0 24 24" width="30" height="30" fill="#FFFFFF">
-                  <path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6z"/>
-                  <rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/>
-                </svg>
-                <span style="color: #FFFFFF; font-size: 12px; font-weight: 700; margin-top: 10px; letter-spacing: 0.5px;">LinkedIn</span>
-              </div>
-            </a>
-          </td>
-          <td style="padding: 7px;">
-            <a href="https://instagram.com/darshit_patel__23" style="text-decoration: none;">
-              <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 112px; background: linear-gradient(145deg, #f97316, #ec4899, #a855f7); border-radius: 18px; border: 1px solid rgba(236,72,153,0.4); box-shadow: 0 8px 30px rgba(236,72,153,0.35), inset 0 1px 0 rgba(255,255,255,0.25);">
-                <svg viewBox="0 0 24 24" width="30" height="30" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
-                  <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
-                  <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/>
-                  <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/>
-                </svg>
-                <span style="color: #FFFFFF; font-size: 12px; font-weight: 700; margin-top: 10px; letter-spacing: 0.5px;">Instagram</span>
-              </div>
-            </a>
-          </td>
-          <td style="padding: 7px;">
-            <a href="mailto:sapariyadarshit3596@gmail.com" style="text-decoration: none;">
-              <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 112px; background: linear-gradient(145deg, #f87171, #ef4444, #dc2626); border-radius: 18px; border: 1px solid rgba(239,68,68,0.4); box-shadow: 0 8px 30px rgba(239,68,68,0.35), inset 0 1px 0 rgba(255,255,255,0.25);">
-                <svg viewBox="0 0 24 24" width="30" height="30" fill="#FFFFFF">
-                  <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
-                  <polyline points="22,6 12,13 2,6"/>
-                </svg>
-                <span style="color: #FFFFFF; font-size: 12px; font-weight: 700; margin-top: 10px; letter-spacing: 0.5px;">Gmail</span>
-              </div>
-            </a>
-          </td>
-          <td style="padding: 7px;">
-            <a href="https://github.com/Darshit-Sapariya" style="text-decoration: none;">
-              <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 90px; height: 112px; background: linear-gradient(145deg, #6b7280, #374151, #111827); border-radius: 18px; border: 1px solid rgba(255,255,255,0.15); box-shadow: 0 8px 30px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.1);">
-                <svg viewBox="0 0 24 24" width="30" height="30" fill="#FFFFFF">
-                  <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
-                </svg>
-                <span style="color: #FFFFFF; font-size: 12px; font-weight: 700; margin-top: 10px; letter-spacing: 0.5px;">GitHub</span>
-              </div>
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<p align="center" style="color: #9CA3AF; font-size: 16px; font-weight: 400; margin-top: 4px; margin-bottom: 30px;">
+  Let's connect and build something amazing together.
+</p>
+
+<div align="center">
+  <table style="border-spacing: 14px; border-collapse: separate;">
+    <tr>
+      <td>
+        <a href="https://github.com/Darshit-Sapariya" style="text-decoration: none;">
+          <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 150px; height: 90px; background: linear-gradient(145deg, #1a1a2e, #16213e); border-radius: 18px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 8px 32px rgba(0,0,0,0.5), inset 0 1px 0 rgba(255,255,255,0.1); transform: rotate(-5deg);">
+            <svg viewBox="0 0 24 24" width="36" height="36" fill="#FFFFFF">
+              <path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z"/>
+            </svg>
+            <span style="color: #FFFFFF; font-size: 13px; font-weight: 700; margin-top: 8px; letter-spacing: 0.5px;">GitHub</span>
+          </div>
+        </a>
+      </td>
+      <td>
+        <a href="https://iamdarshitsapariya.site" style="text-decoration: none;">
+          <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 150px; height: 90px; background: linear-gradient(145deg, #a855f7, #7c3aed); border-radius: 18px; border: 1px solid rgba(168,85,247,0.4); box-shadow: 0 8px 32px rgba(168,85,247,0.3), inset 0 1px 0 rgba(255,255,255,0.2); transform: rotate(-2deg);">
+            <svg viewBox="0 0 24 24" width="36" height="36" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/>
+              <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+            </svg>
+            <span style="color: #FFFFFF; font-size: 13px; font-weight: 700; margin-top: 8px; letter-spacing: 0.5px;">Portfolio</span>
+          </div>
+        </a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/sapariya-darshit-47b7b1287/" style="text-decoration: none;">
+          <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 150px; height: 90px; background: linear-gradient(145deg, #0ea5e9, #2563eb); border-radius: 18px; border: 1px solid rgba(14,165,233,0.4); box-shadow: 0 8px 32px rgba(37,99,235,0.3), inset 0 1px 0 rgba(255,255,255,0.2); transform: rotate(1deg);">
+            <svg viewBox="0 0 24 24" width="36" height="36" fill="#FFFFFF">
+              <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+            </svg>
+            <span style="color: #FFFFFF; font-size: 13px; font-weight: 700; margin-top: 8px; letter-spacing: 0.5px;">LinkedIn</span>
+          </div>
+        </a>
+      </td>
+      <td>
+        <a href="https://instagram.com/darshit_patel__23" style="text-decoration: none;">
+          <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 150px; height: 90px; background: linear-gradient(145deg, #f97316, #ec4899, #a855f7); border-radius: 18px; border: 1px solid rgba(236,72,153,0.4); box-shadow: 0 8px 32px rgba(236,72,153,0.3), inset 0 1px 0 rgba(255,255,255,0.2); transform: rotate(4deg);">
+            <svg viewBox="0 0 24 24" width="36" height="36" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="2" y="2" width="20" height="20" rx="5" ry="5"/>
+              <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/>
+              <line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/>
+            </svg>
+            <span style="color: #FFFFFF; font-size: 13px; font-weight: 700; margin-top: 8px; letter-spacing: 0.5px;">Instagram</span>
+          </div>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="mailto:sapariyadarshit3596@gmail.com" style="text-decoration: none;">
+          <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 150px; height: 90px; background: linear-gradient(145deg, #3b82f6, #ef4444); border-radius: 18px; border: 1px solid rgba(59,130,246,0.4); box-shadow: 0 8px 32px rgba(59,130,246,0.3), inset 0 1px 0 rgba(255,255,255,0.2); transform: rotate(-3deg);">
+            <svg viewBox="0 0 24 24" width="36" height="36" fill="#FFFFFF">
+              <path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+            </svg>
+            <span style="color: #FFFFFF; font-size: 13px; font-weight: 700; margin-top: 8px; letter-spacing: 0.5px;">Gmail</span>
+          </div>
+        </a>
+      </td>
+      <td>
+        <a href="https://iamdarshitsapariya.site" style="text-decoration: none;">
+          <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; width: 150px; height: 90px; background: linear-gradient(145deg, #f97316, #f59e0b); border-radius: 18px; border: 1px solid rgba(249,115,22,0.4); box-shadow: 0 8px 32px rgba(249,115,22,0.3), inset 0 1px 0 rgba(255,255,255,0.2); transform: rotate(3deg);">
+            <svg viewBox="0 0 24 24" width="36" height="36" fill="none" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+              <polyline points="14 2 14 8 20 8"/>
+              <line x1="16" y1="13" x2="8" y2="13"/>
+              <line x1="16" y1="17" x2="8" y2="17"/>
+            </svg>
+            <span style="color: #FFFFFF; font-size: 13px; font-weight: 700; margin-top: 8px; letter-spacing: 0.5px;">Resume</span>
+          </div>
+        </a>
+      </td>
+      <td></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
